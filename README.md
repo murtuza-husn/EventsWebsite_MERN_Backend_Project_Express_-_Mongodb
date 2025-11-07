@@ -55,6 +55,9 @@ List all implemented endpoints with brief descriptions and expected inputs/outpu
 (Add the same table for the second model.)
 
 
+We will create backend dir which would host an application and use Express.js running on node. And then we will use mongodb for the front end.
+
+
 # Steps Performed.
 
 mkdir backend - created a backend folder.
