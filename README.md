@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MCPQ1ISX)
+
 # CSD-3103 Individual MERN Project
 
 ## Project Overview
@@ -56,6 +56,12 @@ List all implemented endpoints with brief descriptions and expected inputs/outpu
 
 
 We will create backend dir which would host an application and use Express.js running on node. And then we will use mongodb for the front end.
+
+We will create 4 models.
+Events
+performers
+organizers
+tickets
 
 
 # Steps Performed.
